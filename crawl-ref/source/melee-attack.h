@@ -97,6 +97,7 @@ private:
     void emit_foul_stench();
     /* Race Effects */
     void do_minotaur_retaliation();
+    void do_ratling_redirection();
 
     /* Brand / Attack Effects */
     bool do_knockback(bool trample = true);

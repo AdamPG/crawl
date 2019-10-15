@@ -111,6 +111,11 @@ Ogre
 Large, strong, and extremely robust, Ogres are competent at all forms of melee.
 They are not merely brutes, as they are comfortable with spellcasting.
 %%%%
+Ratling
+
+Ratlings are very small and nimble rat-like humanoids. They excel
+at redirecting their foes' attacks in melee combat.
+%%%
 Spriggan
 
 Very small, very frail and very fast, Spriggans make highly competent stabbers

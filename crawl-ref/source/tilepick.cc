@@ -3826,6 +3826,7 @@ static tileidx_t _tileidx_player_species_base(const species_type species)
         case SP_DEMIGOD:
             return TILEG_SP_DEMIGOD;
         case SP_SPRIGGAN:
+        case SP_RATLING:
             return TILEG_SP_SPRIGGAN;
         case SP_MINOTAUR:
             return TILEG_SP_MINOTAUR;
