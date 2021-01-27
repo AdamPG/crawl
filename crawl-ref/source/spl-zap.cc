@@ -121,6 +121,7 @@ static pair<spell_type, zap_type> _spl_zaps[] =
     { SPELL_FOXFIRE, ZAP_FOXFIRE },
     { SPELL_MARSHLIGHT, ZAP_FOXFIRE },
     { SPELL_HURL_SLUDGE, ZAP_HURL_SLUDGE },
+    { SPELL_FLAME_DANCE, ZAP_FLAME_DANCE },
 };
 
 zap_type spell_to_zap(spell_type spell)
